@@ -1,7 +1,6 @@
+data/cleaned/
+data/raw/
+*.zip
+linkedin-job-postings/
 __pycache__/
 *.pyc
-*.env
-data/raw/
-linkedin-job-postings/
-*.zip
-.streamlit/
