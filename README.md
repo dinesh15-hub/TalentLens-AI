@@ -12,19 +12,19 @@
 ## 📸 Dashboard Screenshots
 
 ### 🏠 Executive Overview
-![Executive Overview](screenshots/01_executive_overview.png)
+![Executive Overview](visualizations/01_executive_overview.png)
 
 ### 🛠️ Skill Intelligence
-![Skill Intelligence](screenshots/03_skill_intelligence.png)
+![Skill Intelligence](visualizations/03_skill_intelligence.png)
 
 ### 💰 Salary Analytics
-![Salary Analytics](screenshots/04_salary_analytics.png)
+![Salary Analytics](visualizations/04_salary_analytics.png)
 
 ### 🏙️ Geographic Insights
-![Geographic Insights](screenshots/05_geographic_insights.png)
+![Geographic Insights](visualizations/05_geographic_insights.png)
 
 ### 🏭 Industry Analysis
-![Industry Analysis](screenshots/06_industry_analysis.png)
+![Industry Analysis](visualizations/06_industry_analysis.png)
 
 ---
 
